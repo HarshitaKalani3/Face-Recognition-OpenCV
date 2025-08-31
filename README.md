@@ -66,5 +66,4 @@ Email sent to harshitakalani0303@gmail.com with attachment unknown_20250617_1951
 '''
 
 ## Under Guidance of: Mr. Nitin Patil Sir
-## Author: Harshita Kalani
-(https://github.com/HarshitaKalani3)
+## Author: Harshita Kalani (https://github.com/HarshitaKalani3)
